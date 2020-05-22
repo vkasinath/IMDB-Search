@@ -1,0 +1,40 @@
+table_size 650
+occupancy 0.65
+movies 3k_example_movies.txt
+actors 3k_example_actors.txt
+query
+Crystal_Children
+2019
+91
+1 Drama
+4 nm3287398 nm5636532 nm4387058 nm4963938
+4 Leah Ella Noah Darcy
+query
+Coups_de_soleil
+2011
+68
+1 Comedy
+8 nm7219762 nm4423359 nm7219754 nm4621982 nm7219758 nm0061711 nm4235727 nm7219761
+8 Le_footballeur Léon Clémentine Unknown_Role La_secrétaire Unknown_Role Le_gendarme Omar-Ali
+query
+Hizlim_benim
+1975
+55
+1 Comedy
+8 nm0443615 nm1105418 nm5195001 nm0359329 nm1090175 nm0040373 nm0654710 nm0784052
+8 Rüstem Dursun Unknown_Role Unknown_Role Reis Unknown_Role Harun Asim
+query
+No_Sex_Last_Night
+1996
+76
+3 Biography Documentary Romance
+2 nm0130387 nm0791710
+2 Unknown_Role Unknown_Role
+query
+A_Szent_Lörinc_folyó_lazacai
+2003
+120
+3 Crime Drama Mystery
+4 nm1029806 nm0973460 nm0959964 nm1446164
+4 Viola Paolo Matyi Filippo
+quit

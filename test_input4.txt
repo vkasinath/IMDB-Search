@@ -1,0 +1,90 @@
+table_size 650
+occupancy 0.65
+movies 3k_example_movies.txt
+actors 3k_example_actors.txt
+query
+?
+?
+?
+1 Comedy
+0
+0
+query
+?
+?
+?
+1 Drama
+0
+0
+query
+?
+?
+?
+1 Sci-Fi
+0
+0
+query
+?
+?
+?
+1 Romance
+0
+0
+query
+?
+?
+?
+2 Horror Mystery
+0
+0
+query
+?
+?
+?
+3 Drama Mystery Thriller
+0
+0
+query
+?
+?
+?
+3 Crime Drama Mystery
+0
+0
+query
+?
+1990
+?
+0
+0
+0
+query
+?
+2000
+?
+0
+0
+0
+query
+?
+2010
+?
+0
+0
+0
+query
+?
+?
+100
+0
+0
+0
+quit
+query
+?
+?
+?
+0
+0
+0
+quit
